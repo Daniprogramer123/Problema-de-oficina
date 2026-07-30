@@ -24,7 +24,7 @@ mientras toma decisiones que cambian el final del juego.
   - 2/1969
 ```bash
 python main.py
-## OR
+## O si no te funciona
 py main.py
 ```
 ## Paquetes para descargar
