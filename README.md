@@ -20,7 +20,7 @@ El jugador deberá descubrir los secretos ocultos de una empresa
 mientras toma decisiones que cambian el final del juego.
 
 ## Cómo ejecutar
- ## CONTRASEÑA
+ # Contraseña
   - 2/1969
 ```bash
 python main.py
