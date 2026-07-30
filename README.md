@@ -43,3 +43,10 @@ pip show cowsay
 ## Estado del proyecto
 
 🟢 En desarrollo Continuo
+
+## Tener en Cuenta
+
+Tu puedes reseñar el juego, asi que si tienes quejas o mejores avisarme mandando
+tu review.txt en el juego.
+
+# Gracias por tu atención y que te diviertas
