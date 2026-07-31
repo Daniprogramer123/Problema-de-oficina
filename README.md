@@ -40,6 +40,7 @@ pip install pyfiglet
 ```bash
 pip show colorama
 pip show cowsay
+pip show pyfiglet
 ```
 ## Estado del proyecto
 
