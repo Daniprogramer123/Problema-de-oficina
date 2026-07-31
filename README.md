@@ -12,7 +12,7 @@ Python 3.14
 ## Librerías
 - colorama
 - cowsay
-
+- rich
 ## Descripción
 
 ProblemOffice es un juego de terminal basado en decisiones.
@@ -34,6 +34,7 @@ py main.py
 ```bash
 pip install colorama
 pip install cowsay
+pip install rich
 ```
  ## Comprobar su instalación correcta
 ```bash
@@ -49,4 +50,6 @@ pip show cowsay
 Tu puedes reseñar el juego, asi que si tienes quejas o mejores avisarme mandando
 tu review.txt en el juego.
 
-# Gracias por tu atención y que te diviertas
+## Gracias por tu atención y que te diviertas
+
+Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/
