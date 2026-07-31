@@ -12,7 +12,7 @@ Python 3.14
 ## Librerías
 - colorama
 - cowsay
-- rich
+- pyfiglet
 ## Descripción
 
 ProblemOffice es un juego de terminal basado en decisiones.
@@ -34,7 +34,7 @@ py main.py
 ```bash
 pip install colorama
 pip install cowsay
-pip install rich
+pip install pyfiglet
 ```
  ## Comprobar su instalación correcta
 ```bash
