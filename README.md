@@ -1,7 +1,8 @@
-# 🎮 ProblemOffice
+# 🎮 ProblemOffice ![Logo de Problemoffice](img/logo.png)
 
-## Versión
+## Versiones
 v2.5
+v3.0 (Proximamente)
 
 ## Desarrollador
 Daniel Andrés Naranjo
@@ -47,7 +48,7 @@ pip show pyfiglet
  ## Python
 para descargarlo: https://www.python.org/downloads/
   ### instrucciones
-   - descarga el instalador
+   - descarga el instalador ![python1](img/python1.png)
    - abrelo al apenas descargarlo
    - presiona "siguiente" y en instalar
  ## Comprobación de una instalación correcta
