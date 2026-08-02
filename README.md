@@ -13,6 +13,7 @@ Python 3.14
 - colorama
 - cowsay
 - pyfiglet
+
 ## Descripción
 
 ProblemOffice es un juego de terminal basado en decisiones.
@@ -30,7 +31,8 @@ py main.py
 ## Paquetes para descargar
  - colorama
  - cowsay
- ## Cómo descargarlo
+ - pyfliglet
+  ## Cómo descargarlo
 ```bash
 pip install colorama
 pip install cowsay
@@ -42,9 +44,20 @@ pip show colorama
 pip show cowsay
 pip show pyfiglet
 ```
+ ## Python
+para descargarlo: https://www.python.org/downloads/
+  ### instrucciones
+   - descarga el instalador
+   - abrelo al apenas descargarlo
+   - presiona "siguiente" y en instalar
+ ## Comprobación de una instalación correcta
+```bash
+python --version
+```
+  despues de haberlo instalado.
 ## Estado del proyecto
 
-🟢 En desarrollo Continuo
+🟢 En desarrollo Continuo.
 
 ## Tener en Cuenta
 
@@ -53,4 +66,4 @@ tu review.txt en el juego.
 
 ## Gracias por tu atención y que te diviertas
 
-Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/
+Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/.
