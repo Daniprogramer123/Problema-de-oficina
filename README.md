@@ -1,6 +1,18 @@
 # 🎮 ProblemOffice 
 
+Python 3.14 | Estado: En desarrollo | Licencia | Última versión
+
 ![Logo de Problemoffice](img/logo.png)
+
+## ✨ Características
+
+- 👻 Terror psicológico
+- 💻 Interfaz estilo terminal
+- 🧩 Múltiples finales
+- 🧮 Calculadora integrada
+- 🔐 Comandos secretos
+- ⭐ Sistema de reseñas
+- 🛠 Desarrollo activo
 
 ## Versiones
 - v2.5
@@ -60,9 +72,6 @@ para descargarlo: https://www.python.org/downloads/
 python --version
 ```
   despues de haberlo instalado.
-## Estado del proyecto
-
-🟢 En desarrollo Continuo.
 
 ## Tener en Cuenta
 
