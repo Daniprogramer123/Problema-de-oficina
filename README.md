@@ -69,7 +69,7 @@ python --version
 Tu puedes reseñar el juego, asi que si tienes quejas o mejores avisarme mandando
 tu review.txt en el juego.
 
-![reviewtxt](img/reviewtxt.png)
+![reviewtxt](img/review.png)
 
 ## Gracias por tu atención y que te diviertas
 
