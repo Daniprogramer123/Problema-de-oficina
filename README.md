@@ -1,8 +1,8 @@
 # 🎮 ProblemOffice ![Logo de Problemoffice](img/logo.png)
 
 ## Versiones
-v2.5
-v3.0 (Proximamente)
+- v2.5
+- v3.0 (Proximamente)
 
 ## Desarrollador
 Daniel Andrés Naranjo
@@ -49,7 +49,7 @@ pip show pyfiglet
 para descargarlo: https://www.python.org/downloads/
   ### instrucciones
    - descarga el instalador ![python1](img/python1.png)
-   - abrelo al apenas descargarlo
+   - abrelo al apenas descargarlo y te saldra algo como esto: ![instalador](img/python2.webp)
    - presiona "siguiente" y en instalar
  ## Comprobación de una instalación correcta
 ```bash
@@ -64,7 +64,7 @@ python --version
 
 Tu puedes reseñar el juego, asi que si tienes quejas o mejores avisarme mandando
 tu review.txt en el juego.
-
+![instalador](img/reviewTXT.png)
 ## Gracias por tu atención y que te diviertas
 
 Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/.
