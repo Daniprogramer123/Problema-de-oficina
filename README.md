@@ -64,7 +64,7 @@ python --version
 
 Tu puedes reseñar el juego, asi que si tienes quejas o mejores avisarme mandando
 tu review.txt en el juego.
-![instalador](img/reviewTXT.png)
+![instalador](img/reviewtxt.png)
 ## Gracias por tu atención y que te diviertas
 
 Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/.
