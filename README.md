@@ -1,4 +1,6 @@
-# 🎮 ProblemOffice ![Logo de Problemoffice](img/logo.png)
+# 🎮 ProblemOffice 
+
+![Logo de Problemoffice](img/logo.png)
 
 ## Versiones
 - v2.5
@@ -48,8 +50,10 @@ pip show pyfiglet
  ## Python
 para descargarlo: https://www.python.org/downloads/
   ### instrucciones
-   - descarga el instalador ![python1](img/python1.png)
-   - abrelo al apenas descargarlo y te saldra algo como esto: ![instalador](img/python2.webp)
+   - descarga el instalador
+    ![python1](img/python1.png)
+   - abrelo al apenas descargarlo y te saldra algo como esto:
+    ![instalador](img/python2.webp)
    - presiona "siguiente" y en instalar
  ## Comprobación de una instalación correcta
 ```bash
@@ -64,7 +68,9 @@ python --version
 
 Tu puedes reseñar el juego, asi que si tienes quejas o mejores avisarme mandando
 tu review.txt en el juego.
+
 ![reviewtxt](img/reviewtxt.png)
+
 ## Gracias por tu atención y que te diviertas
 
 Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/.
