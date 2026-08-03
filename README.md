@@ -16,7 +16,7 @@ Python 3.14 | Estado: En desarrollo | Licencia | Última versión
 
 ## Versiones
 - v2.5
-- v3.0 (Proximamente)
+- v3.0 --Proximamente--
 
 ## Desarrollador
 Daniel Andrés Naranjo
@@ -82,4 +82,4 @@ tu review.txt en el juego.
 
 ## Gracias por tu atención y que te diviertas
 
-Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/.
+Link de la pagina web: https://daniprogramer123.github.io/Problema-de-oficina/
